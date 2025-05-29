@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate web developer with a focus on fro
 ---
 
 ## 🚀 About Me
-- 🎓 **Student / Web Developer** – I'm honing my coding and design skills, building responsive and user-friendly web experiences.
+- 🎓 **Web Developer** – I'm honing my coding and design skills, building responsive and user-friendly web experiences.
 - 🎨 **Design Enthusiast** – I love experimenting with UI/UX and using frameworks like **Tailwind CSS** and **Bootstrap** to create clean, intuitive designs.
 - 🏆 **Continuous Learner** – I'm always exploring new technologies, improving my skill set, and contributing to exciting projects.
 
